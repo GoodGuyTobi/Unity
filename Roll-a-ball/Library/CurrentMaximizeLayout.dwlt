@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 709, y: 471}
-  m_MaxSize: {x: 18004, y: 14021}
+  m_MinSize: {x: 713, y: 471}
+  m_MaxSize: {x: 18008, y: 14021}
   vertical: 0
-  controlID: 2816
+  controlID: 113
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -51,6 +51,7 @@ MonoBehaviour:
     y: 19
     width: 893
     height: 710
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
@@ -153,6 +154,7 @@ MonoBehaviour:
     y: 92
     width: 893
     height: 710
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
   lastFramingTime: 6434.35828467907
   m_2DMode: 0
@@ -170,6 +172,7 @@ MonoBehaviour:
     showSkybox: 1
     showFlares: 1
     showImageEffects: 1
+    showParticleSystems: 1
   grid:
     xGrid:
       m_Target: 0
@@ -186,7 +189,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.34075513, y: 0.539783, z: -0.2530094, w: 0.72698456}
     speed: 2
-    m_Value: {x: 0.34075513, y: 0.539783, z: -0.2530094, w: 0.72698456}
+    m_Value: {x: 0.34075516, y: 0.539783, z: -0.2530094, w: 0.72698456}
   m_Size:
     m_Target: 35.6227
     speed: 2
@@ -222,10 +225,10 @@ MonoBehaviour:
     y: 0
     width: 261
     height: 731
-  m_MinSize: {x: 230, y: 471}
-  m_MaxSize: {x: 10000, y: 14021}
+  m_MinSize: {x: 234, y: 471}
+  m_MaxSize: {x: 10004, y: 14021}
   vertical: 1
-  controlID: 2777
+  controlID: 75
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,8 +247,8 @@ MonoBehaviour:
     y: 0
     width: 261
     height: 460
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 7}
   m_Panes:
   - {fileID: 7}
@@ -277,11 +280,12 @@ MonoBehaviour:
     y: 92
     width: 257
     height: 439
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0c42ffff
-    m_LastClickedID: -48628
-    m_ExpandedIDs: ee52ffffa6fbffff0000000070280000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 66faffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -355,6 +359,7 @@ MonoBehaviour:
     y: 552
     width: 257
     height: 250
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -367,19 +372,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Materials
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Materials
+  - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\elev\Google Drive\Programmering\Unity\Roll-a-ball
+  m_LastProjectPath: C:\Users\elev\Desktop\Programmering\Unity\Roll-a-ball
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 72270000
-    m_LastClickedID: 10098
-    m_ExpandedIDs: 000000002a27000000ca9a3bffffff7f
+    m_SelectedIDs: 40290000
+    m_LastClickedID: 10560
+    m_ExpandedIDs: 0000000040290000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -407,7 +412,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002a27000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000040290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -432,8 +437,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 0c42ffff
-    m_LastClickedInstanceID: -48628
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
@@ -513,6 +518,7 @@ MonoBehaviour:
     y: 92
     width: 378
     height: 710
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
